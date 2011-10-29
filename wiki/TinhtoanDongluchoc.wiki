@@ -1,4 +1,5 @@
 #summary Các phần mềm tính toán động học và động lực học robot.
+#labels Kythuat
 
 = Giới thiệu =
 
