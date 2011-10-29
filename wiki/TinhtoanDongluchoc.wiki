@@ -33,7 +33,7 @@ Lệnh {{{fkine()}}} được dùng để giải bài toán động học thuậ
 
 Chi tiết mời các em xem trong tài liệu kèm theo phần mềm.
 
-== SpaceLib ==
+== !SpaceLib ==
 Trang thông tin chính thức của gói chương trình có tại http://spacelib.ing.unibs.it/. Tôi cũng đã download và gửi kèm [http://mophongrobot.googlecode.com/svn/trunk/Kythuat/SpaceLib3.1.zip ở đây]. 
 Gói chương trình này cung cấp các công cụ giải các bài toán động học và động lực học thuận/ngược cho robot, và có cả 3 phiên bản: dành cho Maple, Matlab và C++. Vì vậy có thể dễ dàng tích hợp gói phần mềm này trong chương trình mô phỏng bằng C++.
 
