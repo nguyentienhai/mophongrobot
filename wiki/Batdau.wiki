@@ -5,6 +5,3 @@
 * [[Các kỹ thuật mô phỏng cơ bản]] sử dụng ~OpenGL có ở đây.
 
 * Danh sách [[Tài liệu tham khảo|Danh sách tài liệu tham khảo]].
-
-* Để tham gia thảo luận về các vấn đề liên quan đến môn học, hãy tham gia vào nhóm tin tại địa chỉ http://groups.google.com/group/mophongrobot bằng cách bấm vào ''Đăng nhập và đăng ký thành viên''.
-[img[.\files\Web\group.png]]
