@@ -4,6 +4,9 @@
   * Bài 1. [http://mophongrobot.googlecode.com/svn/trunk/Baigiang/Bai1-Mo.dau%26Cac.phan.mem.thiet.ke.pdf Mở đầu & các phần mềm thiết kế]
 
   * Bài 2. [http://mophongrobot.googlecode.com/svn/trunk/Baigiang/Bai2-Visual.C%2B%2B.va.lap.trinh.OpenGL.pdf Visual C++ và Lập trình OpenGL]. Tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Baigiang/Bai2/opengl.cpp chương trình mẫu OpenGL].
+
   * Bài 3. [http://mophongrobot.googlecode.com/svn/trunk/Baigiang/Bai3-Mo.phong.chuyen.dong.cua.Robot.voi.OpenGL.pdf Mô phỏng chuyển động của robot với OpenGL]. Các tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Baigiang/Bai3.zip kèm theo].
+
   * Bài 4. [http://mophongrobot.googlecode.com/svn/trunk/Baigiang/Bai4-.Lap.trinh.Tuong.tac.va.MFC.trong.mo.phong.pdf Lập trình Tương tác và MFC trong mô phỏng]. Các tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Baigiang/Bai4.zip kèm theo] 
+
   * Bài 5. [http://mophongrobot.googlecode.com/svn/trunk/Baigiang/Bai5-Ket.noi.C-C%2B%2B.voi.Maple-Matlab%26Toi.uu.hoa.mo.phong.pdf Kết nối C/C++ với Maple/Matlab & Tối ưu hoá mô phỏng]. Các tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Baigiang/Bai5.zip kèm theo] 
