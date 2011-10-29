@@ -1,5 +1,5 @@
 ==Danh sách các bài giảng== 
-  * Bài 1. [http://code.google.com/p/mophongrobot/source/browse/trunk/Bai%201%20Mo%20dau%20%26%20Cac%20phan%20mem%20thiet%20ke.pdf Mở đầu & các phần mềm thiết kế]
+  * Bài 1. [http://mophongrobot.googlecode.com/svn/trunk/Bai%201%20Mo%20dau%20%26%20Cac%20phan%20mem%20thiet%20ke.pdf Mở đầu & các phần mềm thiết kế]
   * Bài 2. [http://mophongrobot.googlecode.com/svn/trunk/Bai%202%20Visual%20C%2B%2B%20va%20lap%20trinh%20OpenGL.pdf Visual C++ và Lập trình OpenGL]. Tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Bai%202/opengl.cpp chương trình mẫu OpenGL].
   * Bài 3. [http://mophongrobot.googlecode.com/svn/trunk/Bai%203%20Mo%20phong%20chuyen%20dong%20cua%20Robot%20voi%20OpenGL.pdf Mô phỏng chuyển động của robot với OpenGL]. Các tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Bai%203.zip kèm theo].
   * Bài 4. [http://mophongrobot.googlecode.com/svn/trunk/Bai%204%20Lap%20trinh%20Tuong%20tac%20va%20MFC%20trong%20mo%20phong.pdf Lập trình Tương tác và MFC trong mô phỏng]. Các tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Bai%204.zip kèm theo] 
