@@ -1,6 +1,6 @@
 ==Danh sách các bài giảng== 
   * Bài 1. [http://code.google.com/p/mophongrobot/source/browse/trunk/Bai%201%20Mo%20dau%20%26%20Cac%20phan%20mem%20thiet%20ke.pdf Mở đầu & các phần mềm thiết kế]
-  * Bài 2. [http://mophongrobot.googlecode.com/svn/trunk/Bai%202%20Visual%20C%2B%2B%20va%20lap%20trinh%20OpenGL.pdf Visual C++ và Lập trình OpenGL]. Tệp tin chương [[trình mẫu OpenGL|.\files\Bai 2\opengl.cpp]].
-  * Bài 3. [[Mô phỏng chuyển động của robot với OpenGL|.\files\Bai 3 Mo phong chuyen dong cua Robot voi OpenGL.pdf]]. Các tệp tin [[kèm theo|.\files\Bai 3.zip]].
-  * Bài 4. [[Lập trình Tương tác và MFC trong mô phỏng|.\files\Bai 4 Lap trinh Tuong tac va MFC trong mo phong.pdf]]. Các tệp tin [[kèm theo|.\files\Bai 4.zip]] 
-  * Bài 5. [[Kết nối C/C++ với Maple/Matlab & Tối ưu hoá mô phỏng|.\files\Bai 5 Ket noi C-C++ voi Maple-Matlab & Toi uu hoa mo phong.pdf]]. Các tệp tin [[kèm theo|.\files\Bai 5.zip]] 
+  * Bài 2. [http://mophongrobot.googlecode.com/svn/trunk/Bai%202%20Visual%20C%2B%2B%20va%20lap%20trinh%20OpenGL.pdf Visual C++ và Lập trình OpenGL]. Tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Bai%202/opengl.cpp chương trình mẫu OpenGL].
+  * Bài 3. [http://mophongrobot.googlecode.com/svn/trunk/Bai%203%20Mo%20phong%20chuyen%20dong%20cua%20Robot%20voi%20OpenGL.pdf Mô phỏng chuyển động của robot với OpenGL]. Các tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Bai%203.zip kèm theo].
+  * Bài 4. [http://mophongrobot.googlecode.com/svn/trunk/Bai%204%20Lap%20trinh%20Tuong%20tac%20va%20MFC%20trong%20mo%20phong.pdf Lập trình Tương tác và MFC trong mô phỏng. Các tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Bai%204.zip kèm theo] 
+  * Bài 5. [http://mophongrobot.googlecode.com/svn/trunk/Bai%205%20Ket%20noi%20C-C++%20voi%20Maple-Matlab%20&%20Toi%20uu%20hoa%20mo%20phong.pdf Kết nối C/C++ với Maple/Matlab & Tối ưu hoá mô phỏng]. Các tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Bai%205.zip kèm theo] 
