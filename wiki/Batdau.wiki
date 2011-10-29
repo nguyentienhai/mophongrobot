@@ -2,6 +2,6 @@
 
  * Tại đây bạn có thể download [Baigiang các bài giảng]
 
- * [CackythuatMophong Các kỹ thuật mô phỏng cơ bản] sử dụng ~OpenGL có ở đây.
+ * [CackythuatMophong Các kỹ thuật mô phỏng cơ bản] sử dụng OpenGL có ở đây.
 
  * Danh sách [TailieuThamkhao Tài liệu tham khảo].
