@@ -1,4 +1,5 @@
 #summary Danh sách các tài liệu tham khảo sử dụng trong bài giảng.
+#labels Featured
 
 = Introduction =
 
