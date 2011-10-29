@@ -1,3 +1,4 @@
+#summary Danh sách các bài giảng của khoá học
 ==Danh sách các bài giảng== 
   * Bài 1. [http://mophongrobot.googlecode.com/svn/trunk/Bai%201%20Mo%20dau%20%26%20Cac%20phan%20mem%20thiet%20ke.pdf Mở đầu & các phần mềm thiết kế]
   * Bài 2. [http://mophongrobot.googlecode.com/svn/trunk/Bai%202%20Visual%20C%2B%2B%20va%20lap%20trinh%20OpenGL.pdf Visual C++ và Lập trình OpenGL]. Tệp tin [http://mophongrobot.googlecode.com/svn/trunk/Bai%202/opengl.cpp chương trình mẫu OpenGL].
