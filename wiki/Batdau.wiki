@@ -1,0 +1,7 @@
+Đây là trang web phục vụ cho bài giảng môn học Lập trình mô phỏng robot của TS. Phan Mạnh Dần, Khoa Cơ khí, Trường đại học Bách khoa Hà Nội.
+
+* Tại đây bạn có thể download [[các bài giảng|Danh sách các bài giảng]]
+* [[Các kỹ thuật mô phỏng cơ bản]] sử dụng ~OpenGL có ở đây.
+* Danh sách [[Tài liệu tham khảo|Danh sách tài liệu tham khảo]].
+* Để tham gia thảo luận về các vấn đề liên quan đến môn học, hãy tham gia vào nhóm tin tại địa chỉ http://groups.google.com/group/mophongrobot bằng cách bấm vào ''Đăng nhập và đăng ký thành viên''.
+[img[.\files\Web\group.png]]
