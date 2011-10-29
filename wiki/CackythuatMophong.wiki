@@ -1,3 +1,16 @@
 #summary Một số kỹ thuật mô phỏng cơ bản dùng OpenGL
 #labels Featured
 = Giới thiệu =
+Trang này liệt kê các kỹ thuật cơ bản cần dùng khi mô phỏng bằng OpenGL.
+
+ * [DocvaHienthiSTL Đọc và hiển thị file STL]
+
+ * [DieukhienMohinhBangChuot Điều khiển mô hình bằng chuột kiểu Maya]
+
+ * [VeCactrucToado Vẽ các trục tọa độ]
+
+ * [Veluoinen Vẽ lưới tọa độ nền]
+
+ * [TinhtoanDongluchoc Tính toán động học và động lực học robot]
+
+ * [SudungUnicode Sử dụng Unicode trong chương trình Visual C++]
