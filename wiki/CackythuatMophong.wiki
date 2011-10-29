@@ -1,2 +1,3 @@
 #summary Một số kỹ thuật mô phỏng cơ bản dùng OpenGL
+#labels Featured
 = Giới thiệu =
