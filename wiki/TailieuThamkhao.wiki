@@ -1,14 +1,14 @@
 #summary Danh sách các tài liệu tham khảo sử dụng trong bài giảng.
-#labels Featured
+#labels Featured,Tailieu
 
-= Introduction =
+= Danh sách tài liệu tham khảo cho môn học =
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ # *Tài liệu tham khảo lập trình OpenGL chính thức* (Redbook) ([http://mophongrobot.googlecode.com/svn/trunk/Thamkhao/1.OpenGL.Programming.Guide.7th.Ed.2009.pdf download], [http://www.opengl.org/documentation/red_book/ nguồn])
+ # *Các ví dụ trong Redbook* http://www.opengl.org/resources/code/samples/redbook/ 
+ # *Diễn đàn dành cho phát triển game Nehe* http://nehe.gamedev.net/ , có các bài hướng dẫn rất hay về các chủ đề khác nhau của OpenGL. Xem danh sách bài ở dưới mục Legacy Tutorials ([http://code.google.com/p/mophongrobot/svn/trunk/Thamkhao/3.NeHe-Tutorials_A4_Book.pdf download])
+ # *Tra cứu các hàm của OpenGL* (http://www.opengl.org/sdk/docs/man/xhtml/) 
+ # *Beginning Visual C++ 2008: Hướng dẫn lập trình với Visual C++ 2008* ([http://code.google.com/p/mophongrobot/svn/trunk/Thamkhao/Beginning.Visual.C.Plus.Plus.2008.pdf download])
+ # *Maple 12 Advanced Programming*: Hướng dẫn lập trình nâng cao trong Maple, trong đó chương 6 mô tả các cách giao tiếp giữa Maple và C/C++ ([http://code.google.com/p/mophongrobot/svn/trunk/Thamkhao/Maple-12-Advanced.Programming.pdf download], [http://www.maplesoft.com/view.aspx?SF=5885/AdvancedProgramming1.pdf nguồn]) 
+ # *Matlab API to C++*: Bài giới thiệu về lập trình kết nối C/C++ với Matlab của tác giả Christopher Dabney ([http://mophongrobot.googlecode.com/svn/trunk/Thamkhao/MatLab.API.to.C++.ppt download], [http://classes.soe.ucsc.edu/cmps060m/Spring06/ma/cdabney19/MatLab%20API%20to%20C++.ppt nguồn])
+ # *MatLab 2011b External Interfaces*: Hướng dẫn lập trình giao tiếp với Matlab, trong đó chương 6 bàn về tương tác với chương trình C/C++ ([http://mophongrobot.googlecode.com/svn/trunk/Thamkhao/MatLab.API.to.C++.ppt download], [http://www.mathworks.ch/help/pdf_doc/matlab/apiext.pdf nguồn])
+ # *Mô tả tiêu chuẩn dạng thức file AMF* ([http://mophongrobot.googlecode.com/svn/trunk/Thamkhao/AMF_V0.47.pdf download], [http://creativemachines.cornell.edu/amf nguồn])
