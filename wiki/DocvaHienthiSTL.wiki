@@ -4,7 +4,7 @@
 
 Trang này giới thiệu kỹ thuật Đọc và hiển thị file STL bằng OpenGL.
 
-Việc đọc và hiển thị các file STL có thể được thực hiện với sự giúp đỡ của lớp CSTL_File. Đây là một lớp đối tượng C++ do xuất phát từ project AMF tại http://amff.wikispaces.com/STL+to+AMF+converter, đã được tôi sửa đổi để phù hợp với việc mô phỏng robot.
+Việc đọc và hiển thị các file STL có thể được thực hiện với sự giúp đỡ của lớp *`CSTL_File`* ([http://mophongrobot.googlecode.com/svn/trunk/Kythuat/STL_File.zip download]). Đây là một lớp đối tượng C++ do xuất phát từ project AMF tại http://amff.wikispaces.com/STL+to+AMF+converter, đã được tôi sửa đổi để phù hợp với việc mô phỏng robot. 
 
 = Các thao tác =
 Lớp CSTL_File có thể thực hiện các thao tác chính sau:
