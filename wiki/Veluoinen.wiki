@@ -2,7 +2,7 @@
 #labels Kythuat
 
 = Giới thiệu =
-Sử dụng hàm {{{DrawGrid()}}} trong tệp [../trunk/Kythuat/DrawGrid/DrawGrid.cpp DrawGrid.cpp] để vẽ lưới tọa độ nền.
+Sử dụng hàm {{{DrawGrid()}}} trong tệp [http://mophongrobot.googlecode.com/svn/trunk/Kythuat/DrawGrid/DrawGrid.cpp DrawGrid.cpp] để vẽ lưới tọa độ nền.
 
 {{{void DrawGrid(int gridSize = 10, float gridElev=0, float lineWidth = 0.5f);}}}
 
