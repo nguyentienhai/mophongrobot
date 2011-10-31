@@ -14,3 +14,7 @@ Trang này liệt kê các kỹ thuật cơ bản cần dùng khi mô phỏng b�
  * [TinhtoanDongluchoc Tính toán động học và động lực học robot]
 
  * [SudungUnicode Sử dụng Unicode trong chương trình Visual C++]
+
+ * [KetnoiCVoiMatlab Kết nối chương trình C/C++ với Matlab]
+
+ * [KetnoiCVoiMaple Kết nối chương trình C/C++ với Maple]
