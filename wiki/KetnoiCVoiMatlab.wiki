@@ -49,7 +49,7 @@ Một chương trình C/C++ cần thực hiện 3 bước sau để có thể g�
 
 
 === Ví dụ ===
-Chương trình C/C++ sau sẽ thực hiện lệnh `"X = 1:5";` bằng Matlab.
+Chương trình C/C++ sau sẽ thực hiện lệnh `"X = 1:5";` bằng Matlab. Project chương trình [http://code.google.com/p/mophongrobot/source/browse/#svn%2Ftrunk%2FKythuat%2FLinkMatlab ở đây].
 
 {{{
 #include <stdlib.h>
