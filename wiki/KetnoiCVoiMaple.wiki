@@ -1,4 +1,5 @@
 #summary Kết nối chương trình C/C++ với Maple
+#labels Featured,Kythuat
 
 = Giới thiệu =
 
