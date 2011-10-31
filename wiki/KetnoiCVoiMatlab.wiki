@@ -1,6 +1,9 @@
 #summary Kết nối chương trình C/C++ với Matlab
 #labels Featured,Kythuat
 
+= Mục lục =
+<wiki:toc max_depth="3" />
+
 = Giới thiệu =
 
 Trang này giới thiệu cách một chương trình C/C++ gọi các hàm tính toán của Matlab. Trình dịch được sử dụng để minh hoạ là Visual C++ 2008, Matlab R2010b.
