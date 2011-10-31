@@ -44,7 +44,7 @@ Một chương trình C/C++ cần thực hiện 3 bước sau để có thể g�
  # Gọi hàm `StopMaple()` sau khi kết thúc tính toán
 
 === Ví dụ ===
-Chương trình C/C++ sau sẽ thực hiện lệnh `int(x^2+1,x);` để tích phân biểu thức `x^2+1` bằng Maple.
+Chương trình C/C++ sau sẽ thực hiện lệnh `int(x^2+1,x);` để tích phân biểu thức `x^2+1` bằng Maple. Project chương trình [http://code.google.com/p/mophongrobot/source/browse/trunk/Kythuat/LinkMaple/ ở đây].
 
 {{{
 #include <stdio.h>
